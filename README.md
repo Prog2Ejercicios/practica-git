@@ -1,6 +1,6 @@
 #Legajo			Nombre y apellido
 00000           Ejemplo Ejemplo
-50538
+50538 
 50588
 50539
 50484
@@ -28,7 +28,7 @@
 50625
 50600
 50567
-50561
+50561                     Maximiliano Shea
 50504
 50643
 50607
