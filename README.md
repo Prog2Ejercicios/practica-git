@@ -1,5 +1,6 @@
 #Legajo			Nombre y apellido
 00000           Ejemplo Ejemplo
+50.641          LUCAS LODIGIANI
 50538
 50588
 50539
@@ -33,7 +34,7 @@
 50643
 50607
 50608
-37071499
+3707149
 50601
 50810
 50577
